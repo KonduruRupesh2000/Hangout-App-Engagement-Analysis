@@ -21,5 +21,6 @@ The repository includes anonymized datasets representing a variety of metrics, f
 We utilize a mixed-methods approach, combining quantitative data analysis with qualitative assessments to form a holistic understanding of the virtual engagement landscape within college communities.
 
 ### How to Use This Repository
-Dataset: Dataset are stored inside Data folder, each file contains two sheets one is data sheet, and other one is data dictionary which gives key value pair of our data
+Dataset: Dataset are stored inside Data folder, each file contains two sheets one is data sheet, and other one is data dictionary which gives key value pair of our data.
+
 Engagement Analysis.ipynd contains final results of my analysis.
